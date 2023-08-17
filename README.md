@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkumawat1&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkumawat1" /> </p>
 
-- 🚀 Greetings, fellow coders! I'm knee-deep in crafting a spectacular blog posting app using the power of Next.js. If you share the passion for creating seamless user experiences and want to dive into the world of content-driven applications, let's join forces on GitHub! I'm on the lookout for collaborators who are excited to contribute their coding wizardry to this project. Together, we'll bring this app to life and revolutionize the way blogs are presented. Join me, and let's make coding history! 📝🤝 [Blog posting app using next](https://github.com/TusharKumawat1/Blog-posting-app.git)
 
 - 🌱 I’m currently learning **Next.js and Redux**
 
