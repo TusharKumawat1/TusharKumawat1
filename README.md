@@ -25,3 +25,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharkumawat1&show_icons=true&locale=en&layout=compact" alt="tusharkumawat1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkumawat1&" alt="tusharkumawat1" /></p>
+
+
+<img src="https://raw.githubusercontent.com/TusharKumawat1/TusharKumawat1/output/snake.svg" alt="Snake animation" />
+
+###
