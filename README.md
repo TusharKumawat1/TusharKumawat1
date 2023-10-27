@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkumawat1&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkumawat1" /> </p>
 
-- 🚀 Greetings, fellow coders! I'm knee-deep in crafting a spectacular blog posting app using the power of Next.js. If you share the passion for creating seamless user experiences and want to dive into the world of content-driven applications, let's join forces on GitHub! I'm on the lookout for collaborators who are excited to contribute their coding wizardry to this project. Together, we'll bring this app to life and revolutionize the way blogs are presented. Join me, and let's make coding history! 📝🤝 [Blog posting app using next](https://github.com/TusharKumawat1/Blog-posting-app.git)
+-🚀 Hey coders! I'm learning GraphQL. If you're passionate about GraphQL and want to explore content-driven applications, let's connect on GitHub! I'm looking for collaborators to join me in this journey. https://github.com/TusharKumawat1/GraphQlPr.git
 
 - 🌱 I’m currently learning **Redis and GraphQl**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,react,redux,nextjs,nodejs,express,css,tailwind,bootstrap,mongodb,redis,javascript,typescript,postman,html,github" />
+    <img src="https://skillicons.dev/icons?i=git,docker,react,redux,nextjs,nodejs,express,css,tailwind,bootstrap,mongodb,redis,javascript,typescript,postman,html,github,graphql" />
   </a>
 </p>
 
