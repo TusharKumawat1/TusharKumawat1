@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tushar kumawat
+<h1 align="center">Hi 👋 I am Tushar kumawat
 ======================================================================================================================================</h1>
 <h3 align="center">👋 Howdy! I'm Tushar, your friendly neighborhood web developer with expertise in Next.js and the MERN stack. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h3>
 
