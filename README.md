@@ -30,6 +30,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharkumawat1&show_icons=true&locale=en&layout=compact" alt="tusharkumawat1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkumawat1&" alt="tusharkumawat1" /></p>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWVY5eNJoKHd2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ###
