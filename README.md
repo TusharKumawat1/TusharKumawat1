@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I am Tushar kumawat/h1>
+<h1 align="center">Hi 👋 I am Tushar kumawat </h1>
 <h3 align="center">👋 Howdy! I'm Tushar, your friendly neighborhood web developer with expertise in Next.js and the MERN stack. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkumawat1&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkumawat1" /> </p>
