@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I am Tushar kumawat </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkumawat1&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkumawat1" /> </p>
 
 -🚀 Hey coders! I'm learning GraphQL. If you're passionate about GraphQL and want to explore content-driven applications, let's connect on GitHub! I'm looking for collaborators to join me in this journey. https://github.com/TusharKumawat1/GraphQlPr.git
 
