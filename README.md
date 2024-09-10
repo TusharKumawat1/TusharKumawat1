@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋 I am Tushar kumawat </h1>
 
 
-
--🚀 Hey coders! I'm learning GraphQL. If you're passionate about GraphQL and want to explore content-driven applications, let's connect on GitHub! I'm looking for collaborators to join me in this journey. https://github.com/TusharKumawat1/GraphQlPr.git
-
 - 🌱 I’m currently learning **Redis and GraphQl**
 
 - 💬 Ask me about **react ,java-script, Next.js**
