@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋 I am Tushar kumawat </h1>
 
-
-- 🌱 I’m currently learning **Redis and GraphQl**
-
-- 💬 Ask me about **react ,java-script, Next.js**
+- 💬 Feel free to ask me about **React**, **JavaScript**, **Next.js**, **GraphQL**, **Redux**, **Express**, or **Node.js**!
 
 - 📫 How to reach me **tusharkumawat9694@gmail.com**
 
