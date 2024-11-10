@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **tusharkumawat9694@gmail.com**
 
-- ⚡ Fun fact **Here's a chuckle-worthy tidbit about me: I've got such a knack for making people laugh that even my code comments have been known to crack a smile! Yup, my debugging sessions double as stand-up comedy routines – who knew fixing bugs could be so entertaining? 🎤🐛😄**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-kumawat-260935280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-kumawat-260935280/" height="30" width="40" /></a>
