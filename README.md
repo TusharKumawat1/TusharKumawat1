@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 I am Tushar kumawat </h1>
 
-- 💬 Feel free to ask me about **React**, **JavaScript**, **Next.js**, **GraphQL**, **Redux**, **Express**, or **Node.js**!
-
 - 📫 How to reach me **tusharkumawat9694@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
